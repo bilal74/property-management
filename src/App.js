@@ -38,19 +38,19 @@ function App() {
   // let properties = [
     {
       sno: 1,
-      name: "Bilal Villa",
+      title: "Bilal Villa",
       desc: "Mansion",
       area: "5 acres"
     },
     {
       sno: 2,
-      name: "Bilal Home",
+      title: "Bilal Home",
       desc: "Mansion",
       area: "10 acres"
     },
     {
       sno: 3,
-      name: "Bilal Building",
+      title: "Bilal Building",
       desc: "Mansion",
       area: "50 acres"
     }
