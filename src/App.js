@@ -31,6 +31,7 @@ function App() {
       area: area
     }
     setProperties([...properties, myProperty]);
+    console.log(myProperty);
   }
 
   const [properties, setProperties] = useState([
